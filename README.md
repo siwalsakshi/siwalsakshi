@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile.png" width="150" height="150" style="border-radius:50%;border:4px solid #D8C3A5;" alt="Sakshi Siwal"/>
+<img src="profile.png" width="150" height="150" style="border-radius:50%;border:4px solid #D8C3A5;" alt="Sakshi Siwal"/>
 
 <h3>👋 Hi, this is me — Sakshi!</h3>
 <p><em>Student by day, debugger by night, professional overthinker of variable names.</em></p>
